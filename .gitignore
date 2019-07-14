@@ -1,5 +1,9 @@
-# Starter content
-*Content/StarterContent
+# content
+*/Content/StarterContent
+*/Content/Level
+*/Content/Developers
+*/Content/Collections
+
 # Visual Studio 2015 user specific files
 .vs/
 
